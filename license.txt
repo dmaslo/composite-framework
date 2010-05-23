@@ -1,10 +1,10 @@
 The composite-framework license
 ===============================
 
-Copyright (c) 2010 Daniel Máslo (http://www.sourcer.cz)
+Copyright (c) 2010 Daniel MÃ¡slo (http://www.sourcer.cz)
 All rights reserved.
 
-This license is a legal agreement between you and Daniel Máslo (the "Author")
+This license is a legal agreement between you and Daniel MÃ¡slo (the "Author")
 for the use of composite-ramework (the "Software"). By obtaining, using and/or
 copying the Software, you agree that you have read, understood, and will
 comply with the terms and conditions of this license.
