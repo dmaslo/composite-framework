@@ -1,26 +1,26 @@
-composite-framework (c) Daniel Máslo, 2010
+composite-framework (c) Daniel MÃ¡slo, 2010
 
 
-Úvod
+Ãºvod
 ----
 
-Dìkuji, e se zajímáte o composite-framework.
+DÄ›kuji, Å¾e se zajÃ­mÃ¡te o composite-framework.
 
-Tento projekt byl vypracován jako souèást diplomové práce
-na PøF UJEP, diplomová práce je uloena v adresáøi "thesis".
+Tento projekt byl vypracovÃ¡n jako souÄÃ¡st diplomovÃ© prÃ¡ce
+na PÅ™F UJEP, diplomovÃ¡ prÃ¡ce je uloÅ¾ena v adresÃ¡Å™i "thesis".
 
-Soubory frameworku jsou uvolnìny pod composite-framework licencí.
-Viz soubor "license.txt" v tomto adresáøi.
+Soubory frameworku jsou uvolnÄ›ny pod composite-framework licencÃ­.
+Viz soubor "license.txt" v tomto adresÃ¡Å™i.
 
 
-Systémové nároky
+SystÃ©movÃ© nÃ¡roky
 ----------------
 
-JVM 1.6.0 nebo vyšší
+JVM 1.6.0 nebo vyÅ¡Å¡Ã­
 
 
-Dokumentace a vısledky
+Dokumentace a vÃ½sledky
 ----------------------
 
-Dokumentace (javadoc) je k dispozici v adresáøi "doc". Nìkteré 
-vısledky jsou uloeny v adresáøi "res".
+Dokumentace (javadoc) je k dispozici v adresÃ¡Å™i "doc". NÄ›kterÃ© 
+vÃ½sledky jsou uloÅ¾eny v adresÃ¡Å™i "res".
